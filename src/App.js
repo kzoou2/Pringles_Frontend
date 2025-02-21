@@ -46,7 +46,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter  basename={process.env.PUBLIC_URL}>
         <Navbar isLogin={isLogin} setIsLogin={setIsLogin} />
         <div className="container my-3">
           <Routes>
