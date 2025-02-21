@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Pringles_Frontend/static/css/main.437fb19b.css",
+    "main.js": "/Pringles_Frontend/static/js/main.064ecc56.js",
+    "static/media/img3.jpg": "/Pringles_Frontend/static/media/img3.da80ed45b562a5b192eb.jpg",
+    "static/media/img4.jpg": "/Pringles_Frontend/static/media/img4.98dda6f1bf1aa2f64a9c.jpg",
+    "static/media/img2.jpg": "/Pringles_Frontend/static/media/img2.f255929057f36a16eff1.jpg",
+    "static/media/img1.jpg": "/Pringles_Frontend/static/media/img1.1b1bb5e6cc57dbdf74c2.jpg",
+    "static/media/NanumSquareNeo-bRg.ttf": "/Pringles_Frontend/static/media/NanumSquareNeo-bRg.5076032d79b49a26baa2.ttf",
+    "static/media/NanumSquareNeo-aLt.ttf": "/Pringles_Frontend/static/media/NanumSquareNeo-aLt.ca4d63a8881f4ca17239.ttf",
+    "static/media/NanumSquareNeo-cBd.ttf": "/Pringles_Frontend/static/media/NanumSquareNeo-cBd.7f4dbb792cbda9fc36a4.ttf",
+    "static/media/NanumSquareNeo-dEb.ttf": "/Pringles_Frontend/static/media/NanumSquareNeo-dEb.4faa8cb4c1d276609ee8.ttf",
+    "static/media/NanumSquareNeo-eHv.ttf": "/Pringles_Frontend/static/media/NanumSquareNeo-eHv.ae9b1d2bc5eda16ab47c.ttf",
+    "static/media/img6.jpg": "/Pringles_Frontend/static/media/img6.e676b9d6eb349eb60e14.jpg",
+    "static/media/img5.jpg": "/Pringles_Frontend/static/media/img5.9c72abcc6000c3f04c03.jpg",
+    "static/media/No.png": "/Pringles_Frontend/static/media/No.875143bd2e706f53169b.png",
+    "static/media/Yes.png": "/Pringles_Frontend/static/media/Yes.9cdbb0e33f3c3585b72f.png",
+    "static/media/Plus.png": "/Pringles_Frontend/static/media/Plus.2e99c97e4670c63201cd.png",
+    "static/media/user.png": "/Pringles_Frontend/static/media/user.a6143582309785dca610.png",
+    "static/media/logo8.png": "/Pringles_Frontend/static/media/logo8.8a1b4de14118e41abba3.png",
+    "static/media/pinmarker.png": "/Pringles_Frontend/static/media/pinmarker.fce7132d27ce5de8c086.png",
+    "static/media/redpin.png": "/Pringles_Frontend/static/media/redpin.eff45a394ba2ba5f8895.png",
+    "static/media/slick.svg": "/Pringles_Frontend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Pringles_Frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Pringles_Frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Pringles_Frontend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Pringles_Frontend/index.html",
+    "main.437fb19b.css.map": "/Pringles_Frontend/static/css/main.437fb19b.css.map",
+    "main.064ecc56.js.map": "/Pringles_Frontend/static/js/main.064ecc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437fb19b.css",
+    "static/js/main.064ecc56.js"
+  ]
+}
